@@ -1,4 +1,4 @@
-# Carbon Intensity Dashboard
+# Carbon Intensity Dashboard (Android)
 
 Your task is to create the ‘Carbon Intensity Dashboard’, a mobile app which will present the live
 carbon intensity and the carbon intensity for the current day, allowing the user to determine if now
